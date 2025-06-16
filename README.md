@@ -4,7 +4,7 @@ MetaMathAgent is a **toy prototype** exploring the architecture of an autonomous
 
 > **Note:** This project is a conceptual prototype and is not intended for production use.
 
-## 🧠 Project Overview
+## Project Overview
 
 The agent comprises modular components that interact to emulate a reasoning process:
 
